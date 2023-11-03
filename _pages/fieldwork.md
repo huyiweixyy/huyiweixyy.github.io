@@ -18,7 +18,7 @@ Anhui Province
 ======
 
 Anhui preserves a significant **Early Triassic marine reptile fauna** - **Chaohu Fauna**, which extensively preserves valuable information about the recovery of ecosystems following the major Permian-Triassic mass extinction event, which contains an abundance of ichthyosaurs and fish fossils. I frequently engage in fossil excavation and stratigraphic measurement work in this region.
-<br/><img src='/images/chaohu.png'>
+<br/><img src='/images/chaohu3.png'>
 
 Hubei Province
 ======

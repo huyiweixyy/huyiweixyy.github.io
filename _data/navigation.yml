@@ -1,19 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/2009-10-01-paper-title-number-1/
+    url: /publications/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "Fieldwork"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/

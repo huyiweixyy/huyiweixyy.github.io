@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-======
 
 **Yi-Wei Hu**, Jun Liu. Bone histology informs the convergent evolution of a pelagic life style in thalattosaurs (Under Preparation)
 

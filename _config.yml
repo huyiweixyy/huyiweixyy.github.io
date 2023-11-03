@@ -11,7 +11,7 @@ title                    : "Yi-Wei Hu/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yi-Wei Hu"
 description              : &description "Msc student of paleontology"
-url                      : https://huyiweixyy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://huyiweixyy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huyiweixyy/huyiweixyy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,10 @@ analytics:
 author:
   name             : "Yi-Wei Hu"
   avatar           : "profile-dog.png"
-  bio              : "Division of Geology
-                      
-                      School of Resources and Environmental Engineering
-                      
+  bio              : "Msc student of paleontology,                       
                       Hefei University of Technology"
   location         : "Hefei China"
-  email            : "huyiweixyy@gmail.com"
+  email            : huyiweixyy@gmail.com
   phone            : "+86-17805659179"
   uri              :
   bitbucket        :

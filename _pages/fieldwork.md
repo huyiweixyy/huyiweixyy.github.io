@@ -24,5 +24,5 @@ Hubei Province
 ======
 Hubei Province boasts another significant early Triassic fossil location, characterized by a high diversity of Hupeisuchus fossils, often accompanied by marine reptiles such as ichthyosaurs and sauropterygians. We conduct fossil excavations at this site twice a year.
 <br/><img src='/images/hubei2.png'>
-<br/><img src='/images/hubei.png'>
-cute dog from local farmer!
+<br/><img src='/images/hubei1.png'>
+Cute dog~ ૮ ・ﻌ・ა 

@@ -45,8 +45,3 @@ Hubei Province boasts another significant early Triassic fossil location, charac
 
 
 a cute doge of local farmer  ૮ ・ﻌ・ა 
-
-
-
-<br/><img src='/images/profile-dog.png'>
-

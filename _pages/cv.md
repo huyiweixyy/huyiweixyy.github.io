@@ -101,22 +101,18 @@ Extracurricular activity
 
 Academic Reference
 ======
-* **Prof. Jun Liu**
+**Prof. Jun Liu**
 
 Professor and Head, Division of Geology
-
 School of Resources and Environmental Engineering, Hefei University of Technology
-
 Hefei, Anhui Province, China 
-
 Email: junliu@hfut.edu.cn
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=LWycK8cAAAAJ)
 
-* **Dr. Andrzej Wolniewicz**
+**Dr. Andrzej Wolniewicz**
 
 Assistant Professor
-
 Institute of Paleobiology, Polish Academy of Sciences
-
 Warsaw, Poland
-
 Email: andrzej.s.wolniewicz@gmail.com
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=P5XokDgAAAAJ)

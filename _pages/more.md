@@ -68,3 +68,7 @@ Assistant Professor
 Institute of Paleobiology, Polish Academy of Sciences
 
 Warsaw, Poland
+
+Email: andrzej.s.wolniewicz@gmail.com
+
+[Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=P5XokDgAAAAJ)

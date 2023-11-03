@@ -19,8 +19,9 @@ On this website you can find my CV, publications, presentation, and other inform
 
 
 
-More information
 
+More information
+--------
 Prof. Liu: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=LWycK8cAAAAJ)
 
 Dr. Wolniewicz: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=P5XokDgAAAAJ)

@@ -8,14 +8,18 @@ redirect_from:
 ---
 
 Skills
-======
+------
+
+
 * Bone thin section preparation
 * CT scan and reconstruction
 * Language: Chinese, English
 
 
 Major Scholarships and Awards
-======
+------
+
+
 **2023**
  * Jackson School of Geosciences Student Member Travel Grant (SVP 2023 Annual Meeting)
 
@@ -38,7 +42,9 @@ Major Scholarships and Awards
 
 
 Extracurricular activity
-======
+------
+
+
 **2020~present**
  * Collection assistant, Paleontological lab of Hefei University of Technology	
  * CEO, FOSSILS
@@ -48,7 +54,9 @@ Extracurricular activity
 
 
 Academic Reference
-======
+------
+
+
 **Prof. Jun Liu**
 
 Professor and Head, Division of Geology
@@ -60,6 +68,8 @@ Hefei, Anhui Province, China
 Email: junliu@hfut.edu.cn
 
 [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=LWycK8cAAAAJ)
+
+
 
 **Dr. Andrzej Wolniewicz**
 

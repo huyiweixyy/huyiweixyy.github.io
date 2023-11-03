@@ -12,7 +12,7 @@ Guizhou/Yunnan Province
 
 Guizhou and Yunnan provinces have the most extensive Middle to Late Triassic faunas in all of China, such as the Panxian Fauna, Xingyi Fauna and Guanling Fauna. Every summer, we journey to these regions to collect fossils, and the scenery there is incredibly picturesque!
 <br/><img src='/images/guizhou.png'>
-<br/><img src='/images/guizhou2.png>
+<br/><img src='/images/guizhou2.png'>
 
 Anhui Province
 ======

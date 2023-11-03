@@ -21,4 +21,4 @@ redirect_from:
    
 2. Jing He, **Yi-Wei Hu**, Di Zhang, Yue-Feng Shen, 2023. A New Juvenile Specimen of Xinpusaurus suni (Reptilia: Thalattosauria) from the Upper Triassic of Southwestern China. *Geological Review*. 69(3). DOI:10.16509/j.georeview.2023.06.012 (In Chinese with English Summary)
    
-1. **Yi-Wei Hu**, Jun Liu, 2022. A new morphotype of nothosaurs (Sauropterygia: Nothosauridae) from the Middle Triassic of South China. *Historical Biology*. https://doi.org/10.1080/08912963.2022.2122459 [pdf]("nothosaurs.pdf")  
+1. **Yi-Wei Hu**, Jun Liu, 2022. A new morphotype of nothosaurs (Sauropterygia: Nothosauridae) from the Middle Triassic of South China. *Historical Biology*. https://doi.org/10.1080/08912963.2022.2122459 [pdf]("paper1.pdf")  

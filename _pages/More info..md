@@ -30,7 +30,7 @@ Major Scholarships and Awards
  * **National Postgraduate Scholarship** (The Ministry of Education, People's Republic of China)
    
 **2021**
- * Novel White Scholarship (Hefei University of Technology)	
+ * Noel White Scholarship (Hefei University of Technology)	
  * **Outstanding Bachelor student award** (Department of Education, Anhui Province)	
  * **Best Bachelor thesis award** (Hefei University of Technology)
    
@@ -46,8 +46,8 @@ Extracurricular activity
 
 
 **2020~present**
- * Collection assistant, Paleontological lab of Hefei University of Technology	
- * CEO, [FOSSILS](../pages/FOSSILS)
+ * Collection assistant, Geological Museum of Hefei University of Technology	
+ * CEO, FOSSILS
    
 **2019~2021**
  * PI, National College Students' innovation and entrepreneurship training program: Fossils excavation, conservation and preparation: an example from the Early Triassic Chaohusau Fauna in the of Anhui, China. (100,000 RMB)

@@ -47,7 +47,7 @@ Extracurricular activity
 
 **2020~present**
  * Collection assistant, Paleontological lab of Hefei University of Technology	
- * CEO, [FOSSILS] (../pages/FOSSILS)
+ * CEO, [FOSSILS](../pages/FOSSILS)
    
 **2019~2021**
  * PI, National College Students' innovation and entrepreneurship training program: Fossils excavation, conservation and preparation: an example from the Early Triassic Chaohusau Fauna in the of Anhui, China. (100,000 RMB)

@@ -13,7 +13,7 @@ Skills
 
 * Bone thin section preparation
 * CT scan and reconstruction
-* Language: Chinese, English
+* **Language**: Chinese, English
 
 
 Major Scholarships and Awards

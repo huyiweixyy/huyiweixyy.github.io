@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Guizhou & Yunnan Province
+Guizhou & Yunnan Provinces
 ---------
 
 
-Guizhou and Yunnan provinces have the most extensive Middle to Late Triassic faunas in all of China, such as the Panxian Fauna, Xingyi Fauna and Guanling Fauna. Every summer, we journey to these regions to collect fossils, and the scenery there is incredibly picturesque!
+Guizhou and Yunnan provinces have the most extensive Middle to Late Triassic faunas in all of China, such as the Panxian Fauna, Xingyi Fauna and Guanling Fauna. Every summer, we travel to these regions to collect fossils, and the scenery there is incredibly picturesque!
 
 
 <br/><img src='/images/guizhou.png'>
@@ -35,7 +35,7 @@ Hubei Province
 ---------
 
 
-Hubei Province boasts another significant early Triassic fossil location, characterized by a high diversity of Hupeisuchus fossils, often accompanied by marine reptiles such as ichthyosaurs and sauropterygians. We conduct fossil excavations at this site twice a year.
+Hubei Province boasts another significant early Triassic fossil location, characterized by a high diversity of hupeisuchian fossils, often accompanied by marine reptiles such as ichthyosaurs and sauropterygians. We conduct fossil excavations at this site twice a year.
 
 
 <br/><img src='/images/hubei2.png'>

@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "More info."
+title: "m"
 permalink: /More info./
 author_profile: true
 redirect_from:
-  - /More info.
+  - /more
 ---
 
 Skills

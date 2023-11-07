@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "m"
-permalink: /More info./
+title: "More info."
+permalink: /more/
 author_profile: true
 redirect_from:
   - /more

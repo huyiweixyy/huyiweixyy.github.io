@@ -7,58 +7,15 @@ redirect_from:
   - /presentations
 ---
 
-Paleontological Society of China 30th Annual Meeting
+The 2nd Asian Paleontological Conference
 ---------------
 
-DATE: 2022.5
-
-Online
-
-Oral presentation, in Chinese
-
-
-
-The 6th International Palaeontological Congress
----------------
-
-DATE: 2022.11
-
-Online
-
-Oral presentation, in English
-
-
-
-National Geo-Graduates Forum 2022
----------------
-
-DATE: 2022.12
-
-Oral presentation, in Chinese
-
-Received an award for an outstanding presentation.
-
-
-
-The 6th National Youth Geological Conference of the Geological Society of China.
----------------
-
-DATE: 2023.6
-
-Oral presentation, in Chinese
-
-Received an award for an outstanding presentation.
-
-
-
-The XX Annual Meeting of the European Association of Vertebrate Palaeontologists
----------------
-
-DATE: 2023.6
+DATE: 2023.8
 
 Poster presentation, in English
 
-<br/><img src='/images/eavp.png'>
+<br/><img src='/images/apc.png'>
+
 
 The 8th International Meeting on Mesozoic Fishes and Aquatic Tetrapods.
 ---------------
@@ -73,11 +30,51 @@ Oral presentation, in English
 <br/><img src='/images/mesofish.png'>
 
 
-The 2nd Asian paleontological conference
+The XX Annual Meeting of the European Association of Vertebrate Palaeontologists
 ---------------
 
-DATE: 2023.8
+DATE: 2023.6
 
 Poster presentation, in English
 
-<br/><img src='/images/apc.png'>
+<br/><img src='/images/eavp.png'>
+
+
+The 6th National Youth Geological Conference of the Geological Society of China.
+---------------
+
+DATE: 2023.6
+
+Oral presentation, in Chinese
+
+Received an award for an outstanding presentation.
+
+
+National Geo-Graduates Forum 2022
+---------------
+
+DATE: 2022.12
+
+Oral presentation, in Chinese
+
+Received an award for an outstanding presentation.
+
+
+The 6th International Palaeontological Congress
+---------------
+
+DATE: 2022.11
+
+Online
+
+Oral presentation, in English
+
+
+Paleontological Society of China 30th Annual Meeting
+---------------
+
+DATE: 2022.5
+
+Online
+
+Oral presentation, in Chinese

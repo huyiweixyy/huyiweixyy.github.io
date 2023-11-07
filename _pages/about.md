@@ -12,12 +12,12 @@ redirect_from:
 
 My name is Yi-Wei Hu, a master student from [School of Resources and Environmental Engineering](https://geoscience.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/). 
 
-My research interest includes evolution of vertebrates. 
+My research interest is focused on the evolution of vertebrates. 
 
-I am very fortunate to be advised by [Prof. Jun Liu](http://faculty.hfut.edu.cn/junliu/zh_CN/index.htm) from School of Resources and Environmental Engineering, Hefei University of Technology, 
+I am very fortunate to be advised by [Prof. Jun Liu](http://faculty.hfut.edu.cn/junliu/zh_CN/index.htm) from the School of Resources and Environmental Engineering, Hefei University of Technology, 
 and [Dr. Andrzej Wolniewicz](https://www.paleo.pan.pl/pracownicy/wolniewicz/andrzej_s_wolniewicz.html) from [institute of Paleobiology](https://www.paleo.pan.pl/), [Polish Academy of Sciences](https://scholar.google.com/citations?hl=zh-CN&user=P5XokDgAAAAJ).
 
-On this website you can find my publications, presentation, fieldwork, CV and other information. 
+On this website, you can find my publications, presentations, fieldwork, CV, and other information. 
 
 
 Contact me: huyiweixyy@gmail.com

@@ -60,9 +60,11 @@ Academic Reference
 
 **Prof. Jun Liu**
 
-Professor and Head, Department of Geology
+Professor and Head
 
-School of Resources and Environmental Engineering, Hefei University of Technology
+Department of Geology, School of Resources and Environmental Engineering
+
+Hefei University of Technology
 
 Hefei, Anhui Province, China 
 
@@ -76,7 +78,9 @@ Email: junliu@hfut.edu.cn
 
 Postdoctoral researcher
 
-Department of Earth Sciences, University of Cambridge
+Department of Earth Sciences
+
+University of Cambridge
 
 Cambridge, UK
 
@@ -87,9 +91,11 @@ Email: andrzej.s.wolniewicz@gmail.com
 
 **Dr. Dr. Yunfeng Shen**
 
-Lecturer, Department of Geology
+Lecturer
 
-School of Resources and Environmental Engineering Hefei University of Technology
+Department of Geology, School of Resources and Environmental Engineering 
+
+Hefei University of Technology
 
 Hefei, Anhui Province, China
 

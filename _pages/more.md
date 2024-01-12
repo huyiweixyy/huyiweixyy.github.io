@@ -13,6 +13,7 @@ Skills
 
 * Bone thin section preparation
 * CT scan and reconstruction
+* Data analysis in R
 * **Language**: Chinese, English
 
 
@@ -32,10 +33,10 @@ Major Scholarships and Awards
 **2021**
  * Noel White Scholarship (Hefei University of Technology)	
  * **Outstanding Bachelor student award** (Department of Education, Anhui Province)	
- * **Best Bachelor thesis award** (Hefei University of Technology)
+ * Best Bachelor thesis award (Hefei University of Technology)
    
 **2020**
- * **Silver award, China College Students' “Internet+” Innovation and Entrepreneurship Competition** (Department of Education, Anhui Province)
+ * Silver award, China College Students' “Internet+” Innovation and Entrepreneurship Competition (Department of Education, Anhui Province)
    
 **2018~2021**
  * Undergraduate scholarship (Hefei University of Technology)	
@@ -59,7 +60,7 @@ Academic Reference
 
 **Prof. Jun Liu**
 
-Professor and Head, Division of Geology
+Professor and Head, Department of Geology
 
 School of Resources and Environmental Engineering, Hefei University of Technology
 
@@ -73,12 +74,25 @@ Email: junliu@hfut.edu.cn
 
 **Dr. Andrzej Wolniewicz**
 
-Assistant Professor
+Postdoctoral researcher
 
-Institute of Paleobiology, Polish Academy of Sciences
+Department of Earth Sciences, University of Cambridge
 
-Warsaw, Poland
+Cambridge, UK
 
 Email: andrzej.s.wolniewicz@gmail.com
 
 [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=P5XokDgAAAAJ)
+
+
+**Dr. Dr. Yunfeng Shen**
+
+Lecturer, Department of Geology
+
+School of Resources and Environmental Engineering Hefei University of Technology
+
+Hefei, Anhui Province, China
+
+Email: yuefengshen@hfut.edu.cn
+
+[Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=uGj7vsYAAAAJ)

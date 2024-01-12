@@ -16,7 +16,7 @@ redirect_from:
 Yu-Ting Lu, **Yi-Wei Hu**, Jun Liu. A new Dinocephalosaurus (Archosauromorpha, Dinocephalosauridae) from the Middle Triassic of southern China (Under Preparation)
   
 **Yi-Wei Hu**, Qiang Li, Jun Liu, 2024. A new pachypleurosaur (Reptilia: Sauropterygia) from the Middle Triassic of southwestern China and its phylogenetic and biogeographic implications. *Swiss Journal of Palaeontology 143* (1). https://doi.org/10.1186/s13358-023-00292-4
-[Download](../files/dianmeisaurus.pdf)
+[Download](../files/2024dianmeisaurus.pdf)
   
 Andrzej S. Wolniewicz, Yue-Feng Shen, Qiang Li, Yuan-Yuan Sun, Yu Qiao, Ya-Jie Chen, **Yi-Wei Hu**, Jun Liu. 2023. An armoured marine reptile from the Early Triassic of South China and its phylogenetic and evolutionary implications. *eLife* 12:e83163. https://doi.org/10.7554/eLife.83163
 [Download](../files/elife.pdf)

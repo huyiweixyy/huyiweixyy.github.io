@@ -89,7 +89,7 @@ Email: andrzej.s.wolniewicz@gmail.com
 [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=P5XokDgAAAAJ)
 
 
-**Dr. Dr. Yunfeng Shen**
+**Dr. Yunfeng Shen**
 
 Lecturer
 

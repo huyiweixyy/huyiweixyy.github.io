@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi-Wei Hu/Personal Homepage"
+title                    : "Yiwei Hu/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Yi-Wei Hu"
+name                     : &name "Yiwei Hu"
 description              : &description "Msc student of paleontology"
 url                      : "https://huyiweixyy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -53,7 +53,7 @@ yandex_site_verification :
 
 # Site Author
 author:
-  name             : "Yi-Wei Hu"
+  name             : "Yiwei Hu"
   avatar           : "profile-red.png"
   bio              : "Msc student of paleontology,                       
                       Hefei University of Technology"

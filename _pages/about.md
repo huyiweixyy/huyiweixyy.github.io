@@ -17,6 +17,8 @@ My research interest is focused on the evolution of vertebrates.
 I am very fortunate to be advised by **[Prof. Jun Liu](http://faculty.hfut.edu.cn/junliu/zh_CN/index.htm)** from the School of Resources and Environmental Engineering, Hefei University of Technology, 
 and **Dr. Andrzej Wolniewicz** from the Department of Earth Sciences, University of Cambridge.
 
+About to start a PhD program at the University of Zurich.
+
 On this website, you can find my publications, presentations, fieldwork, CV, and other information. 
 
 
